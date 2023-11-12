@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yurii</h1>
+<h3 align="center">Frontend Developer</h3>
+
+- 🌱 I’m currently learning DevOps
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=autonibit&show_icons=true&locale=en" alt="autonibit"></p>
 
 <!--
 **autonibit/autonibit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
